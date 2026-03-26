@@ -12,7 +12,7 @@
 
 ## Integrantes: <a href="https://www.linkedin.com/in/andreluisdesousa/">André Luis</a>, <a href="https://www.linkedin.com/in/enzo-minardi/">Enzo Minardi</a>, <a href="https://www.linkedin.com/in/joão-guilherme-gumiero-de-micheli/">Jõao Guilherme</a>, <a href="https://www.linkedin.com/in/samcoronel/">Samuel Cavalcanti</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/rodrigo-da-rosa-phd/">Rodrigo da Rosa</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Lopes</a>, <a href="https://www.linkedin.com/in/victorbarq/">Jefferson de Oliveira</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/rodrigo-da-rosa-phd/">Rodrigo da Rosa</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Lopes</a>, <a href="https://www.linkedin.com/in/jefferson-o-silva/">Jefferson de Oliveira</a>
 
 ## Descrição
 
