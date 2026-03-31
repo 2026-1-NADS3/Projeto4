@@ -1,7 +1,3 @@
-Entendido. Se o foco central da entrega é Qualidade de Software, o README deve inverter a prioridade: a norma ISO 25010 vira o guia, e os elementos de UX (Persona/Wireframe) viram as evidências dessa qualidade.
-
-Aqui está a versão ultra-resumida e focada 100% em Quality Assurance (QA):
-
 🚀 ENTREGA 1: QUALIDADE DE SOFTWARE (ISO 25010)
 GRUPO: 4 | PROJETO: [Nome]
 
@@ -37,5 +33,3 @@ Foco: Fluxo de navegação e hierarquia de informação.
 
 📄 RELATÓRIO DE APLICAÇÃO
 A norma ISO 25010 foi utilizada para transformar requisitos subjetivos do usuário em métricas objetivas. Ao utilizar o Wireframe de baixa fidelidade, o grupo foca na Qualidade de Uso, permitindo ajustes rápidos na arquitetura de informação antes da fase de alta complexidade técnica.
-
-#pdf_wireframe_qualidade.pdf
