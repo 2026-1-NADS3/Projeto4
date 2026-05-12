@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores Principais -->
+    <color name="azul_turquesa">#00E5FF</color>
+    <color name="azul_turquesa_dark">#00B8D4</color>
+    <color name="coral_avermelhado">#FF6B6B</color>
+    <color name="cinza_claro">#F8F9FA</color>
+    <color name="cinza_escuro">#666666</color>
+
+    <!-- Tons de Azul para Fundo -->
+    <color name="azul_fundo_claro">#E0F7FA</color>
+    <color name="azul_fundo_suave">#B2EBF2</color>
+
+    <!-- Cores Secundárias -->
+    <color name="bege_claro">#FAF3E0</color>
+    <color name="marrom_medio">#6D4C41</color>
+    <color name="azul_petroleo">#002B36</color>
+
+    <!-- Estados e Textos -->
+    <color name="texto_principal">#002B36</color>
+    <color name="texto_secundario">#6D4C41</color>
+    <color name="botao_desabilitado">#BDBDBD</color>
+    <color name="sucesso">#4CAF50</color>
+    <color name="erro">#FF6B6B</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

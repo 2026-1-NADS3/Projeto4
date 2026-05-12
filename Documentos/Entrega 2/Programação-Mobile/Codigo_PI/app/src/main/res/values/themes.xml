@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Codigo_PI" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Cores Principais -->
+        <item name="colorPrimary">@color/azul_turquesa</item>
+        <item name="colorOnPrimary">@color/azul_petroleo</item>
+        <item name="colorPrimaryContainer">@color/azul_turquesa_dark</item>
+
+        <!-- Cores Secundárias -->
+        <item name="colorSecondary">@color/coral_avermelhado</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Superfícies e Fundos Modernos -->
+        <item name="android:windowBackground">@drawable/bg_main</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/texto_principal</item>
+        <item name="colorSurfaceVariant">@color/bege_claro</item>
+        <item name="colorOnSurfaceVariant">@color/texto_secundario</item>
+
+        <!-- Estados de Erro -->
+        <item name="colorError">@color/erro</item>
+        <item name="colorOnError">@color/white</item>
+
+        <!-- Customização de Componentes -->
+        <item name="materialButtonStyle">@style/Widget.Material3.Button</item>
+        <item name="textInputStyle">@style/Widget.Material3.TextInputLayout.OutlinedBox</item>
+    </style>
+
+    <style name="Theme.Codigo_PI" parent="Base.Theme.Codigo_PI" />
+
+    <style name="CircleImage" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="ShapeAppearance.SentBubble" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+    </style>
+
+    <style name="ShapeAppearance.ReceivedBubble" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20dp</item>
+        <item name="cornerSizeBottomLeft">0dp</item>
+    </style>
+</resources>
